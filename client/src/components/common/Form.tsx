@@ -1,6 +1,7 @@
 import React from 'react'
 import { Box, Typography, FormControl, FormHelperText, TextField, TextareaAutosize, Stack, Select, MenuItem, Button } from '@pankod/refine-mui';
 import { FormProps } from 'interfaces/common';
+// CustomButton is our custom buttom that we made from scratch.
 import CustomButton from './CustomButton';
 
 const Form = ({type, register, handleSubmit, handleImageChange, formLoading, onFinishHandler, propertyImage}: FormProps) => {
