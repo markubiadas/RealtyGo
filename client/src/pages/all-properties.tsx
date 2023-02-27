@@ -113,7 +113,6 @@ const AllProperties = () => {
             defaultValue={10}
             onChange={() => { }}
           >
-            {/* pagination */}
             {[10, 20, 30, 40, 50].map((size)=> (
               <MenuItem key={size} value={size}>Show {size}</MenuItem>
             ))}
