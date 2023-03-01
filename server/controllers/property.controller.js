@@ -10,6 +10,7 @@ cloudinary.config({
     api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
+// GET ALL PROPERTIES
 const getAllProperties = async (req, res) => { 
     const {_end, _order, _start, _sort, title_like = "", propertyType = "" } = req.query;
 
@@ -41,8 +42,21 @@ const getAllProperties = async (req, res) => {
     }
 };
 
-const getPropertyDetail = async (req, res) => { };
 
+// GET PROPERTY DETAILS
+const getPropertyDetail = async (req, res) => {
+    const {id} = req.params;
+    const propertyExist = await Property.findOne({ _id: id }).populate('creator');
+
+    if (propertyExist){
+        res.status(200).json(propertyExist)
+    } else {
+        res.status(404).json({ message: 'Property not found' });
+    }
+};
+
+
+// CREATE PROPERTY
 const createProperty = async (req, res) => {
     try {
         const { title, description, propertyType, location, price, photo, email } = req.body;
