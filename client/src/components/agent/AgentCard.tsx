@@ -19,7 +19,8 @@ const AgentCard = ({id, name, email, avatar, noOfProperties}: AgentCardProp) => 
   const generateLink = () => {
     if(currentUser.email === email) return '/my-profile'
 
-    return `/agent/show/${id}`;
+    // Fixed the show other agents profile
+    return `/agents/show/${id}`;
   }
 
 
