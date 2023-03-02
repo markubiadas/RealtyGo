@@ -4,7 +4,12 @@ import { FormProps } from 'interfaces/common';
 // CustomButton is our custom buttom that we made from scratch.
 import CustomButton from './CustomButton';
 
+
+
 const Form = ({type, register, handleSubmit, handleImageChange, formLoading, onFinishHandler, propertyImage}: FormProps) => {
+
+  
+
   return (
     <Box>
       <Typography fontSize={25} fontWeight={700} color="#11142d">
@@ -121,6 +126,7 @@ const Form = ({type, register, handleSubmit, handleImageChange, formLoading, onF
             color='#fcfcfc'
           />
         </form>
+        
       </Box>
     </Box>
   )
