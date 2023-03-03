@@ -54,18 +54,18 @@ const AgentCard = ({id, name, email, avatar, noOfProperties}: AgentCardProp) => 
         </Stack>
 
         <Stack direction='row' flexWrap='wrap' justifyContent='space-between' alignItems='center' gap={2}>
-          <InfoBar 
+          {/* <InfoBar 
             icon={<EmailOutlined sx={{color: '#808191'}} />}
             name={email}
-          />
-          <InfoBar 
+          /> */}
+          {/* <InfoBar 
             icon={<Place sx={{color: '#808191'}} />}
             name={email}
           />
           <InfoBar 
             icon={<Phone sx={{color: '#808191'}} />}
             name={email}
-          />
+          /> */}
           <InfoBar 
             icon={<LocationCity sx={{color: '#808191'}} />}
             name={ noOfProperties > 1 ? `${noOfProperties} Properties` : `${noOfProperties} Property` }
