@@ -42,3 +42,7 @@ Technologies used in this project:
 <h2>Dashboard</h2>
   <p>One of the key features of RealtyGo's dashboard is its ease of use. Users can easily navigate the interface and perform common tasks, such as adding new properties, browse for agents, and detailed view of analytics of the current user's properties, with just a few clicks.</p>
   <img src="" alt="">
+
+<h2>CRUD functionality - Add new property, View properties, Update a property, and Delete a property</h2>
+<h3>Update and delete functionality only when its the current user's posting/property</h3>
+<p>RealtyGo's full CRUD functionality allows users to easily manage their properties and keep their listings up-to-date.</p>
