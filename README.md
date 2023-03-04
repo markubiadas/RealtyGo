@@ -7,7 +7,7 @@
 
 <h3>Features</h3>
 
-Here are some features of RealtyGo:
+Key features of RealtyGo:
 
 * Beautiful, intuitive dashboard for easy management of listings
 * Full CRUD functionality for creating, editing, and deleting properties
