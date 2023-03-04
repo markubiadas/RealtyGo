@@ -46,3 +46,9 @@ Technologies used in this project:
 <h2>CRUD functionality - Add new property, View properties, Update a property, and Delete a property</h2>
 <h3>Update and delete functionality only when its the current user's posting/property</h3>
 <p>RealtyGo's full CRUD functionality allows users to easily manage their properties and keep their listings up-to-date.</p>
+<img src="" alt="">
+
+<h2>Search and Filer function</h2>
+<p>RealtyGo's robust search functionality is a powerful tool for property managers and real estate agents who need to filter properties based on specific criteria. With the ability to filter by location, price range, and property type, users can quickly and easily find the properties they are looking for without having to sift through irrelevant listings.</p>
+<img src="" alt="">
+
