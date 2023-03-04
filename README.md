@@ -30,3 +30,7 @@ Technologies used in this project:
 * Google Auth
 * Cloudinary
 * Refine
+
+<hr/>
+
+<h3>Demo</h3>
