@@ -33,4 +33,8 @@ Technologies used in this project:
 
 <hr/>
 
-<h3>Demo</h3>
+<h2>Demo</h2>
+
+<h2>Login and Registration</h2>
+<p>Users can login to the app using Google Auth. Users have to put their Google email/username and password credentials in order to be logged in to the app. By using Google auth, it allows users to log in to the web app with just a few clicks, without the need to remember yet another username and password.</p>
+<img src="" alt="">
