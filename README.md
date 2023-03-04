@@ -11,7 +11,7 @@ Here are some features of RealtyGo:
 
 * Beautiful, intuitive dashboard for easy management of listings
 * Full CRUD functionality for creating, editing, and deleting properties
-* Ability to upload photos and videos to showcase properties
+* Ability to upload photos to showcase properties
 * Robust search functionality for filtering properties by location, price range, and property type
 * Contact information for the real estate agent responsible for each listing
 * User-friendly interface for easy navigation and use
