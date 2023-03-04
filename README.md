@@ -38,3 +38,7 @@ Technologies used in this project:
 <h2>Login and Registration</h2>
 <p>Users can login to the app using Google Auth. Users have to put their Google email/username and password credentials in order to be logged in to the app. By using Google auth, it allows users to log in to the web app with just a few clicks, without the need to remember yet another username and password.</p>
 <img src="" alt="">
+  
+<h2>Dashboard</h2>
+  <p>One of the key features of RealtyGo's dashboard is its ease of use. Users can easily navigate the interface and perform common tasks, such as adding new properties, browse for agents, and detailed view of analytics of the current user's properties, with just a few clicks.</p>
+  <img src="" alt="">
