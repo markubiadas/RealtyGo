@@ -50,12 +50,14 @@ Technologies used in this project:
 <h2>CRUD functionality - Add new property, View properties, Update a property, and Delete a property</h2>
 <h3>Update and delete functionality only when its the current user's posting/property</h3>
 <p>RealtyGo's full CRUD functionality allows users to easily manage their properties and keep their listings up-to-date.</p>
-  https://user-images.githubusercontent.com/111801565/223195468-371eef64-8687-4d55-a99c-1473d13ffa58.mov
+https://user-images.githubusercontent.com/111801565/223197787-760c2593-2ab1-4e0e-9d9e-e4b9775c9f1a.mov
 <img src="" alt="">
 
 <h2>Search and Filter function</h2>
-<p>RealtyGo's robust search functionality is a powerful tool for property managers and real estate agents who need to filter properties based on specific criteria. With the ability to filter by location, price range, and property type, users can quickly and easily find the properties they are looking for without having to sift through irrelevant listings.</p>
+<p>RealtyGo's robust search functionality is a powerful tool for property managers and real estate agents who need to filter properties based on specific criteria. With the ability to filter by location, price range, and property type, users can quickly and easily find the properties they are looking for without 
+having to sift through irrelevant listings.</p>
 <img src="" alt="">
+
 
 <h2>Contact information of each property posted</h2>
 <p>The contact information is readily available on each listing page, making it easy for users to contact the agent directly from the app. With easy access to contact information for each agent, users can quickly and easily get in touch and get the information they need to make informed decisions about their property search.</p>
