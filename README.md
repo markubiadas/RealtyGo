@@ -74,12 +74,14 @@ https://user-images.githubusercontent.com/111801565/223201049-395754b1-6016-4394
 
 
 
-
-
 <h2>Search and Filter function</h2>
 <p>RealtyGo's robust search functionality is a powerful tool for property managers and real estate agents who need to filter properties based on specific criteria. With the ability to filter by location, price range, and property type, users can quickly and easily find the properties they are looking for without 
 having to sift through irrelevant listings.</p>
-<img src="" alt="">
+
+
+https://user-images.githubusercontent.com/111801565/223217497-c560d54e-662f-4f1d-91bd-73c8b0a6d38e.mov
+
+
 
 
 <h2>Contact information of each property posted</h2>
