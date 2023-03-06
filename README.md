@@ -86,3 +86,8 @@ https://user-images.githubusercontent.com/111801565/223217497-c560d54e-662f-4f1d
 
 <h2>Contact information of each property posted</h2>
 <p>The contact information is readily available on each listing page, making it easy for users to contact the agent directly from the app. With easy access to contact information for each agent, users can quickly and easily get in touch and get the information they need to make informed decisions about their property search.</p>
+  
+
+https://user-images.githubusercontent.com/111801565/223218188-a5981e0d-3964-41bb-af93-ae001b20b917.mov
+
+
