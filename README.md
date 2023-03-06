@@ -48,7 +48,9 @@ Technologies used in this project:
 <p>RealtyGo's full CRUD functionality allows users to easily manage their properties and keep their listings up-to-date.</p>
 <img src="" alt="">
 
-<h2>Search and Filer function</h2>
+<h2>Search and Filter function</h2>
 <p>RealtyGo's robust search functionality is a powerful tool for property managers and real estate agents who need to filter properties based on specific criteria. With the ability to filter by location, price range, and property type, users can quickly and easily find the properties they are looking for without having to sift through irrelevant listings.</p>
 <img src="" alt="">
 
+<h2>Contact information of each property posted</h2>
+<p>The contact information is readily available on each listing page, making it easy for users to contact the agent directly from the app. With easy access to contact information for each agent, users can quickly and easily get in touch and get the information they need to make informed decisions about their property search.</p>
