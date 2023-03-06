@@ -41,17 +41,40 @@ Technologies used in this project:
 
 <h2>Login and Registration</h2>
 <p>Users can login to the app using Google Auth. Users have to put their Google email/username and password credentials in order to be logged in to the app. By using Google auth, it allows users to log in to the web app with just a few clicks, without the need to remember yet another username and password.</p>
-<img src="" alt="">
+  
+
+https://user-images.githubusercontent.com/111801565/223198417-c75c0095-9072-42e3-80a0-78491ad2f478.mov
+
+
   
 <h2>Dashboard</h2>
   <p>One of the key features of RealtyGo's dashboard is its ease of use. Users can easily navigate the interface and perform common tasks, such as adding new properties, browse for agents, and detailed view of analytics of the current user's properties, with just a few clicks.</p>
-  <img src="" alt="">
+  
+
+https://user-images.githubusercontent.com/111801565/223198452-f762778b-3285-478d-bca3-ca26180b7be8.mov
+
+
 
 <h2>CRUD functionality - Add new property, View properties, Update a property, and Delete a property</h2>
 <h3>Update and delete functionality only when its the current user's posting/property</h3>
 <p>RealtyGo's full CRUD functionality allows users to easily manage their properties and keep their listings up-to-date.</p>
-https://user-images.githubusercontent.com/111801565/223197787-760c2593-2ab1-4e0e-9d9e-e4b9775c9f1a.mov
-<img src="" alt="">
+  <h3>Add Property</h3> 
+
+https://user-images.githubusercontent.com/111801565/223198290-1c87acdc-0b7e-45ce-bce6-b3e11c04d4b6.mov
+  
+  <h3>Edit Property</h3>
+
+
+https://user-images.githubusercontent.com/111801565/223200401-72bd1ff3-859c-457e-84e7-cd6da44916cd.mov
+
+  <h3>Delete Property</h3>
+  
+
+https://user-images.githubusercontent.com/111801565/223201049-395754b1-6016-4394-8bcf-98b88eb87f31.mov
+
+
+
+
 
 <h2>Search and Filter function</h2>
 <p>RealtyGo's robust search functionality is a powerful tool for property managers and real estate agents who need to filter properties based on specific criteria. With the ability to filter by location, price range, and property type, users can quickly and easily find the properties they are looking for without 
